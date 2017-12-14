@@ -1,0 +1,130 @@
+@media (min-width: 320px) and (max-width: 480px) {
+    .date p{
+        font-size: 10px;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .topnews24{
+        padding: 18px 0px 0px 0px;
+        margin-top: 20px;
+    }
+
+    .PathokNews{
+        margin-top: 20px;
+    }
+
+    .economics{
+        margin-top: 20px;
+    }
+
+    .discussion a img{
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .item img{
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .carousel-caption p{
+        font-size: 11px;
+        margin: 0px;
+    }
+
+    .border{
+        border: none;
+    }
+
+    .app{
+        margin-top: 20px;
+
+    }
+}
+
+@media only screen and (max-width: 1200px){
+
+}
+@media only screen and (max-width: 1000px) {
+
+    @media only screen and (max-width: 767px) {
+
+        .header_top{
+            padding: 10px 0px;
+        }
+
+        .date{
+            font-size: 20px;
+        }
+
+        .topnews24{
+            margin-top: 20px;
+        }
+
+        .PathokNews{
+            margin-top: 20px;
+        }
+
+        .economics{
+            margin-top: 20px;
+        }
+
+        .face_widget{
+            margin-top: 20px;
+        }
+
+        .item img{
+            width: 100%;
+            max-width: 100%;
+        }
+
+        .NewsSport a img{
+            width: 100%;
+            max-width: 100%;
+        }
+
+        .add img{
+            width: 100%;
+            max-width: 100%;
+        }
+
+        .discussion a img{
+            width: 100%;
+            max-width: 100%;
+        }
+
+        .All_Another a img{
+            width: 100%;
+            max-width: 100%;
+        }
+
+        .All_Another_1 a img{
+            width: 100%;
+            max-width: 100%;
+        }
+
+        .cb_add{
+            width: 100%;
+            max-width: 100%;
+        }
+
+        .border{
+            margin-left: 180px;
+
+        }
+
+        .app{
+            margin-top: 20px;
+        }
+    }
+
+    @media only screen and (max-width: 600px) {
+
+    }
+
+
+    @media only screen and (max-width: 600px) {
+
+    }
+}
